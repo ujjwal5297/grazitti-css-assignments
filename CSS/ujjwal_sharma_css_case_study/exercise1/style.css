@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.name{
+    color: rgb(122, 12, 71);
+}
+
+.header{
+    width: 650px;
+}
+
+button{
+    background-image: linear-gradient(to right, rgb(151, 93, 125) 55%, yellow);
+    color: white;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 2px;
+}
+
+.section{
+    display: flex;
+    /* margin-left: 20rem; */
+    flex-direction: column;
+    align-items: center;
+}
+
+section p{
+    align-items: center;
+}
+
+footer{
+    background-image: linear-gradient(to right, rgb(222, 149, 189) 95%, white);;
+    display: inline;
+    width: fit-content;
+    padding: 50px;
+    align-items: center;
+    margin-left: 20rem;
+}

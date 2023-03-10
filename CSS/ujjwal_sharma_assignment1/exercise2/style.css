@@ -1,0 +1,11 @@
+description{
+    color: red;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#picture{
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,53 @@
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.cellPhone {
+    position: absolute;
+    font-size: 100px;
+    top: 8px;
+    margin-left: 2rem;
+    padding-top: .5em;
+    padding-left: 350px;
+    color: rgb(191, 26, 26);
+    text-align: center;
+}
+
+.Text {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: green;
+}
+
+button {
+    position: absolute;
+    color: black;
+    bottom: 10px;
+    left: 180px;
+    border-radius: 20px;
+    border: none;
+    font-size: 12px;
+    background-color: #FFB84C;
+    color: black;  
+    width: 120px;
+    height: 55px; 
+    margin-left: 400px;
+    margin-bottom: 80px; 
+}
+
+/* .button::before{
+    content: "Hello";
+    width: 100px;
+    color: red;
+} */
+
+/* button::before{
+        content: "Read this -";
+        background-color: yellow;
+        color: red;
+        font-weight: bold;
+} */

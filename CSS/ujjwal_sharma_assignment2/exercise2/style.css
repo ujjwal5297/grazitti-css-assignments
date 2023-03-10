@@ -1,0 +1,20 @@
+header{
+    display: block;
+    width: 700px;
+    height: 200px;
+    background-color: rgb(155, 83, 203);
+}
+
+section{
+    display: block;
+    width: 700px;
+    height: 500px;
+    background-color: grey;
+}
+
+footer{
+    display: block;
+    width: 700px;
+    height: 200px;
+    background-color: rgb(62, 61, 61);
+}
